@@ -1,0 +1,1761 @@
+date,altersklasse_covid19,vaccination_status,entries,sumTotal,pop,inz_entries,inzsumTotal,geoRegion,type,type_variant,vaccine,data_completeness,version
+202104,0 - 9,fully_vaccinated,0,0,5,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,0 - 9,partially_vaccinated,0,0,16,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,0 - 9,not_vaccinated,7,7,880566,0.79,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,0 - 9,unknown,303,303,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,10 - 19,fully_vaccinated,0,0,51,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,10 - 19,partially_vaccinated,1,1,1056,94.7,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,10 - 19,not_vaccinated,1,1,852268,0.12,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,10 - 19,unknown,907,907,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,20 - 29,fully_vaccinated,0,0,396,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,20 - 29,partially_vaccinated,0,0,7792,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,20 - 29,not_vaccinated,2,2,1034429,0.19,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,20 - 29,unknown,1014,1014,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,30 - 39,fully_vaccinated,0,0,703,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,30 - 39,partially_vaccinated,0,0,12115,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,30 - 39,not_vaccinated,5,5,1235422,0.4,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,30 - 39,unknown,1262,1262,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,40 - 49,fully_vaccinated,0,0,1057,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,40 - 49,partially_vaccinated,0,0,16489,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,40 - 49,not_vaccinated,3,3,1189359,0.25,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,40 - 49,unknown,1194,1194,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,50 - 59,fully_vaccinated,0,0,1567,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,50 - 59,partially_vaccinated,0,0,25131,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,50 - 59,not_vaccinated,8,8,1278845,0.63,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,50 - 59,unknown,1070,1070,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,60 - 69,fully_vaccinated,0,0,1931,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,60 - 69,partially_vaccinated,0,0,24332,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,60 - 69,not_vaccinated,16,16,946014,1.69,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,60 - 69,unknown,612,612,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,70 - 79,fully_vaccinated,0,0,3785,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,70 - 79,partially_vaccinated,1,1,77514,1.29,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,70 - 79,not_vaccinated,18,18,658614,2.73,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,70 - 79,unknown,336,336,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,80+,fully_vaccinated,1,1,5861,17.06,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,80+,partially_vaccinated,6,6,113286,5.3,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,80+,not_vaccinated,47,47,340751,13.79,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,80+,unknown,385,385,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,Unbekannt,unknown,1,1,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,0 - 9,fully_vaccinated,0,0,12,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,0 - 9,partially_vaccinated,0,0,12,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,0 - 9,not_vaccinated,7,14,880563,0.79,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,0 - 9,unknown,532,835,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,10 - 19,fully_vaccinated,0,0,204,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,10 - 19,partially_vaccinated,0,1,1098,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,10 - 19,not_vaccinated,2,3,852073,0.23,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,10 - 19,unknown,1352,2259,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,20 - 29,fully_vaccinated,0,0,1480,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,20 - 29,partially_vaccinated,1,1,8196,12.2,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,20 - 29,not_vaccinated,8,10,1032941,0.77,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,20 - 29,unknown,1446,2460,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,30 - 39,fully_vaccinated,0,0,2103,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,30 - 39,partially_vaccinated,1,1,13225,7.56,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,30 - 39,not_vaccinated,6,11,1232912,0.49,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,30 - 39,unknown,1675,2937,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,40 - 49,fully_vaccinated,0,0,3090,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,40 - 49,partially_vaccinated,0,0,17980,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,40 - 49,not_vaccinated,8,11,1185835,0.67,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,40 - 49,unknown,1643,2837,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,50 - 59,fully_vaccinated,0,0,4651,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,50 - 59,partially_vaccinated,0,0,28277,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,50 - 59,not_vaccinated,26,34,1272615,2.04,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,50 - 59,unknown,1462,2532,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,60 - 69,fully_vaccinated,0,0,4397,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,60 - 69,partially_vaccinated,1,1,29781,3.36,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,60 - 69,not_vaccinated,20,36,938099,2.13,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,60 - 69,unknown,794,1406,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,70 - 79,fully_vaccinated,1,1,10740,9.31,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,70 - 79,partially_vaccinated,2,3,92687,2.16,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,70 - 79,not_vaccinated,33,51,636486,5.18,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,70 - 79,unknown,450,786,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,80+,fully_vaccinated,2,3,20165,9.92,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,80+,partially_vaccinated,24,30,123460,19.44,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,80+,not_vaccinated,60,107,316273,18.97,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,80+,unknown,529,914,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,Unbekannt,unknown,1,2,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,0 - 9,fully_vaccinated,0,0,14,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,0 - 9,partially_vaccinated,0,0,15,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,0 - 9,not_vaccinated,4,18,880558,0.45,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,0 - 9,unknown,338,1173,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,10 - 19,fully_vaccinated,0,0,428,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,10 - 19,partially_vaccinated,0,1,1233,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,10 - 19,not_vaccinated,5,8,851714,0.59,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,10 - 19,unknown,1025,3284,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,20 - 29,fully_vaccinated,0,0,3777,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,20 - 29,partially_vaccinated,1,2,8160,12.25,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,20 - 29,not_vaccinated,6,16,1030680,0.58,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,20 - 29,unknown,1243,3703,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,30 - 39,fully_vaccinated,0,0,5822,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,30 - 39,partially_vaccinated,0,1,12945,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,30 - 39,not_vaccinated,5,16,1229473,0.41,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,30 - 39,unknown,1348,4285,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,40 - 49,fully_vaccinated,0,0,7680,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,40 - 49,partially_vaccinated,1,1,18217,5.49,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,40 - 49,not_vaccinated,9,20,1181008,0.76,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,40 - 49,unknown,1338,4175,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,50 - 59,fully_vaccinated,0,0,10723,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,50 - 59,partially_vaccinated,1,1,30492,3.28,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,50 - 59,not_vaccinated,13,47,1264328,1.03,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,50 - 59,unknown,1132,3664,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,60 - 69,fully_vaccinated,0,0,9205,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,60 - 69,partially_vaccinated,3,4,33088,9.07,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,60 - 69,not_vaccinated,27,63,929984,2.9,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,60 - 69,unknown,623,2029,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,70 - 79,fully_vaccinated,1,2,24545,4.07,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,70 - 79,partially_vaccinated,8,11,100645,7.95,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,70 - 79,not_vaccinated,29,80,614723,4.72,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,70 - 79,unknown,348,1134,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,80+,fully_vaccinated,1,4,40956,2.44,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,80+,partially_vaccinated,17,47,131257,12.95,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,80+,not_vaccinated,59,166,287685,20.51,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,80+,unknown,295,1209,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,Unbekannt,unknown,0,2,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,0 - 9,fully_vaccinated,0,0,17,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,0 - 9,partially_vaccinated,0,0,14,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,0 - 9,not_vaccinated,2,20,880556,0.23,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,0 - 9,unknown,223,1396,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,10 - 19,fully_vaccinated,0,0,625,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,10 - 19,partially_vaccinated,0,1,1299,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,10 - 19,not_vaccinated,2,10,851451,0.23,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,10 - 19,unknown,858,4142,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,20 - 29,fully_vaccinated,0,0,5109,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,20 - 29,partially_vaccinated,0,2,8803,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,20 - 29,not_vaccinated,3,19,1028705,0.29,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,20 - 29,unknown,1107,4810,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,30 - 39,fully_vaccinated,0,0,8028,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,30 - 39,partially_vaccinated,0,1,13591,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,30 - 39,not_vaccinated,4,20,1226621,0.33,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,30 - 39,unknown,1176,5461,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,40 - 49,fully_vaccinated,0,0,10901,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,40 - 49,partially_vaccinated,1,2,19005,5.26,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,40 - 49,not_vaccinated,10,30,1176999,0.85,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,40 - 49,unknown,1158,5333,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,50 - 59,fully_vaccinated,0,0,16157,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,50 - 59,partially_vaccinated,2,3,32174,6.22,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,50 - 59,not_vaccinated,21,68,1257212,1.67,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,50 - 59,unknown,1067,4731,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,60 - 69,fully_vaccinated,2,2,15274,13.09,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,60 - 69,partially_vaccinated,2,6,34636,5.77,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,60 - 69,not_vaccinated,28,91,922367,3.04,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,60 - 69,unknown,599,2628,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,70 - 79,fully_vaccinated,2,4,48989,4.08,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,70 - 79,partially_vaccinated,3,14,92272,3.25,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,70 - 79,not_vaccinated,25,105,598652,4.18,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,70 - 79,unknown,333,1467,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,80+,fully_vaccinated,3,7,70331,4.27,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,80+,partially_vaccinated,17,64,120660,14.09,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,80+,not_vaccinated,36,202,268907,13.39,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,80+,unknown,295,1504,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,Unbekannt,unknown,1,3,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,0 - 9,fully_vaccinated,0,0,21,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,0 - 9,partially_vaccinated,0,0,12,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,0 - 9,not_vaccinated,2,22,880554,0.23,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,0 - 9,unknown,231,1627,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,10 - 19,fully_vaccinated,0,0,895,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,10 - 19,partially_vaccinated,0,1,1242,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,10 - 19,not_vaccinated,10,20,851238,1.17,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,10 - 19,unknown,889,5031,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,20 - 29,fully_vaccinated,0,0,6807,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,20 - 29,partially_vaccinated,0,2,8923,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,20 - 29,not_vaccinated,13,32,1026887,1.27,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,20 - 29,unknown,1151,5961,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,30 - 39,fully_vaccinated,0,0,10758,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,30 - 39,partially_vaccinated,0,1,13709,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,30 - 39,not_vaccinated,7,27,1223773,0.57,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,30 - 39,unknown,1251,6712,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,40 - 49,fully_vaccinated,1,1,14998,6.67,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,40 - 49,partially_vaccinated,1,3,18443,5.42,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,40 - 49,not_vaccinated,12,42,1173464,1.02,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,40 - 49,unknown,1207,6540,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,50 - 59,fully_vaccinated,2,2,23114,8.65,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,50 - 59,partially_vaccinated,1,4,30870,3.24,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,50 - 59,not_vaccinated,17,85,1251559,1.36,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,50 - 59,unknown,1093,5824,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,60 - 69,fully_vaccinated,0,2,23601,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,60 - 69,partially_vaccinated,0,6,32225,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,60 - 69,not_vaccinated,33,124,916451,3.6,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,60 - 69,unknown,604,3232,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,70 - 79,fully_vaccinated,2,6,77752,2.57,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,70 - 79,partially_vaccinated,7,21,77315,9.05,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,70 - 79,not_vaccinated,24,129,584846,4.1,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,70 - 79,unknown,360,1827,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,80+,fully_vaccinated,8,15,107440,7.45,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,80+,partially_vaccinated,13,77,98348,13.22,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,80+,not_vaccinated,38,240,254110,14.95,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,80+,unknown,264,1768,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,Unbekannt,unknown,0,3,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,0 - 9,fully_vaccinated,0,0,23,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,0 - 9,partially_vaccinated,0,0,14,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,0 - 9,not_vaccinated,2,24,880550,0.23,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,0 - 9,unknown,276,1903,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,10 - 19,fully_vaccinated,0,0,1206,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,10 - 19,partially_vaccinated,0,1,1189,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,10 - 19,not_vaccinated,2,22,850980,0.24,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,10 - 19,unknown,934,5965,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,20 - 29,fully_vaccinated,0,0,8926,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,20 - 29,partially_vaccinated,0,2,9141,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,20 - 29,not_vaccinated,6,38,1024550,0.59,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,20 - 29,unknown,1283,7244,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,30 - 39,fully_vaccinated,0,0,14125,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,30 - 39,partially_vaccinated,0,1,13915,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,30 - 39,not_vaccinated,10,37,1220200,0.82,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,30 - 39,unknown,1232,7944,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,40 - 49,fully_vaccinated,1,2,19722,5.07,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,40 - 49,partially_vaccinated,1,4,18297,5.47,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,40 - 49,not_vaccinated,15,57,1168886,1.28,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,40 - 49,unknown,1253,7793,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,50 - 59,fully_vaccinated,1,3,30857,3.24,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,50 - 59,partially_vaccinated,2,6,30529,6.55,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,50 - 59,not_vaccinated,19,104,1244157,1.53,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,50 - 59,unknown,1257,7081,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,60 - 69,fully_vaccinated,1,3,31934,3.13,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,60 - 69,partially_vaccinated,1,7,33016,3.03,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,60 - 69,not_vaccinated,27,151,907327,2.98,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,60 - 69,unknown,654,3886,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,70 - 79,fully_vaccinated,1,7,98751,1.01,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,70 - 79,partially_vaccinated,4,25,81760,4.89,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,70 - 79,not_vaccinated,31,160,559402,5.54,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,70 - 79,unknown,344,2171,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,80+,fully_vaccinated,4,19,136593,2.93,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,80+,partially_vaccinated,12,89,91661,13.09,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,80+,not_vaccinated,34,274,231644,14.68,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,80+,unknown,187,1955,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,Unbekannt,unknown,0,3,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,0 - 9,fully_vaccinated,0,0,25,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,0 - 9,partially_vaccinated,0,0,16,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,0 - 9,not_vaccinated,6,30,880546,0.68,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,0 - 9,unknown,419,2322,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,10 - 19,fully_vaccinated,0,0,1432,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,10 - 19,partially_vaccinated,0,1,1363,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,10 - 19,not_vaccinated,0,22,850580,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,10 - 19,unknown,1311,7276,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,20 - 29,fully_vaccinated,0,0,10513,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,20 - 29,partially_vaccinated,0,2,10652,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,20 - 29,not_vaccinated,5,43,1021452,0.49,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,20 - 29,unknown,1482,8726,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,30 - 39,fully_vaccinated,0,0,16469,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,30 - 39,partially_vaccinated,0,1,16131,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,30 - 39,not_vaccinated,10,47,1215640,0.82,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,30 - 39,unknown,1385,9329,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,40 - 49,fully_vaccinated,0,2,22912,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,40 - 49,partially_vaccinated,0,4,21223,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,40 - 49,not_vaccinated,20,77,1162770,1.72,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,40 - 49,unknown,1463,9256,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,50 - 59,fully_vaccinated,4,7,36525,10.95,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,50 - 59,partially_vaccinated,1,7,34787,2.87,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,50 - 59,not_vaccinated,38,142,1234231,3.08,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,50 - 59,unknown,1264,8345,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,60 - 69,fully_vaccinated,3,6,38096,7.87,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,60 - 69,partially_vaccinated,0,7,39104,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,60 - 69,not_vaccinated,30,181,895077,3.35,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,60 - 69,unknown,699,4585,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,70 - 79,fully_vaccinated,4,11,116828,3.42,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,70 - 79,partially_vaccinated,3,28,93450,3.21,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,70 - 79,not_vaccinated,26,186,529635,4.91,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,70 - 79,unknown,381,2552,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,80+,fully_vaccinated,13,32,161572,8.05,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,80+,partially_vaccinated,12,101,90581,13.25,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,80+,not_vaccinated,33,307,207745,15.88,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,80+,unknown,192,2147,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,Unbekannt,unknown,0,3,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,0 - 9,fully_vaccinated,0,0,28,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,0 - 9,partially_vaccinated,0,0,20,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,0 - 9,not_vaccinated,4,34,880539,0.45,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,0 - 9,unknown,575,2897,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,10 - 19,fully_vaccinated,0,0,1840,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,10 - 19,partially_vaccinated,0,1,1311,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,10 - 19,not_vaccinated,3,25,850224,0.35,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,10 - 19,unknown,1502,8778,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,20 - 29,fully_vaccinated,0,0,13409,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,20 - 29,partially_vaccinated,1,3,10022,9.98,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,20 - 29,not_vaccinated,10,53,1019186,0.98,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,20 - 29,unknown,1715,10441,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,30 - 39,fully_vaccinated,2,2,21023,9.51,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,30 - 39,partially_vaccinated,1,2,15375,6.5,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,30 - 39,not_vaccinated,16,63,1211842,1.32,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,30 - 39,unknown,1768,11097,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,40 - 49,fully_vaccinated,0,2,28809,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,40 - 49,partially_vaccinated,0,4,20920,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,40 - 49,not_vaccinated,21,98,1157176,1.81,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,40 - 49,unknown,1776,11032,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,50 - 59,fully_vaccinated,2,9,46263,4.32,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,50 - 59,partially_vaccinated,0,7,34578,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,50 - 59,not_vaccinated,47,189,1224702,3.84,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,50 - 59,unknown,1546,9891,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,60 - 69,fully_vaccinated,1,7,46961,2.13,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,60 - 69,partially_vaccinated,2,9,44816,4.46,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,60 - 69,not_vaccinated,39,220,880500,4.43,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,60 - 69,unknown,808,5393,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,70 - 79,fully_vaccinated,8,19,134140,5.96,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,70 - 79,partially_vaccinated,8,36,101607,7.87,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,70 - 79,not_vaccinated,29,215,504166,5.75,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,70 - 79,unknown,360,2912,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,80+,fully_vaccinated,15,47,185686,8.08,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,80+,partially_vaccinated,9,110,82598,10.9,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,80+,not_vaccinated,34,341,191614,17.74,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,80+,unknown,205,2352,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,Unbekannt,unknown,2,5,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,0 - 9,fully_vaccinated,0,0,30,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,0 - 9,partially_vaccinated,0,0,21,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,0 - 9,not_vaccinated,3,37,880536,0.34,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,0 - 9,unknown,649,3546,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,10 - 19,fully_vaccinated,0,0,2094,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,10 - 19,partially_vaccinated,0,1,1469,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,10 - 19,not_vaccinated,2,27,849812,0.24,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,10 - 19,unknown,1858,10636,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,20 - 29,fully_vaccinated,1,1,15710,6.37,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,20 - 29,partially_vaccinated,0,3,11044,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,20 - 29,not_vaccinated,9,62,1015863,0.89,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,20 - 29,unknown,2165,12606,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,30 - 39,fully_vaccinated,0,2,24655,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,30 - 39,partially_vaccinated,0,2,16777,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,30 - 39,not_vaccinated,22,85,1206808,1.82,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,30 - 39,unknown,2149,13246,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,40 - 49,fully_vaccinated,0,2,33741,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,40 - 49,partially_vaccinated,0,4,23286,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,40 - 49,not_vaccinated,27,125,1149878,2.35,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,40 - 49,unknown,2087,13119,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,50 - 59,fully_vaccinated,2,11,54295,3.68,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,50 - 59,partially_vaccinated,1,8,40043,2.5,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,50 - 59,not_vaccinated,56,245,1211205,4.62,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,50 - 59,unknown,1827,11718,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,60 - 69,fully_vaccinated,4,11,56038,7.14,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,60 - 69,partially_vaccinated,1,10,58412,1.71,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,60 - 69,not_vaccinated,64,284,857827,7.46,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,60 - 69,unknown,941,6334,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,70 - 79,fully_vaccinated,5,24,154609,3.23,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,70 - 79,partially_vaccinated,4,40,121126,3.3,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,70 - 79,not_vaccinated,43,258,464178,9.26,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,70 - 79,unknown,395,3307,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,80+,fully_vaccinated,15,62,206416,7.27,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,80+,partially_vaccinated,5,115,83316,6,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,80+,not_vaccinated,40,381,170166,23.51,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,80+,unknown,190,2542,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,Unbekannt,unknown,2,7,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,0 - 9,fully_vaccinated,0,0,32,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,0 - 9,partially_vaccinated,0,0,23,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,0 - 9,not_vaccinated,10,47,880532,1.14,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,0 - 9,unknown,641,4187,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,10 - 19,fully_vaccinated,0,0,2313,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,10 - 19,partially_vaccinated,0,1,1682,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,10 - 19,not_vaccinated,7,34,849380,0.82,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,10 - 19,unknown,1671,12307,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,20 - 29,fully_vaccinated,0,1,17743,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,20 - 29,partially_vaccinated,2,5,11937,16.75,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,20 - 29,not_vaccinated,1,63,1012937,0.1,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,20 - 29,unknown,2099,14705,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,30 - 39,fully_vaccinated,3,5,27720,10.82,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,30 - 39,partially_vaccinated,1,3,18360,5.45,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,30 - 39,not_vaccinated,17,102,1202160,1.41,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,30 - 39,unknown,2173,15419,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,40 - 49,fully_vaccinated,3,5,37623,7.97,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,40 - 49,partially_vaccinated,0,4,26221,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,40 - 49,not_vaccinated,31,156,1143061,2.71,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,40 - 49,unknown,2079,15198,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,50 - 59,fully_vaccinated,2,13,60658,3.3,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,50 - 59,partially_vaccinated,2,10,46203,4.33,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,50 - 59,not_vaccinated,57,302,1198682,4.76,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,50 - 59,unknown,1794,13512,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,60 - 69,fully_vaccinated,4,15,63969,6.25,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,60 - 69,partially_vaccinated,3,13,76035,3.95,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,60 - 69,not_vaccinated,64,348,832273,7.69,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,60 - 69,unknown,969,7303,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,70 - 79,fully_vaccinated,3,27,177918,1.69,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,70 - 79,partially_vaccinated,7,47,136425,5.13,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,70 - 79,not_vaccinated,43,301,425570,10.1,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,70 - 79,unknown,365,3672,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,80+,fully_vaccinated,27,89,226222,11.94,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,80+,partially_vaccinated,2,117,81254,2.46,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,80+,not_vaccinated,34,415,152422,22.31,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,80+,unknown,206,2748,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,Unbekannt,unknown,2,9,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,0 - 9,fully_vaccinated,0,0,34,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,0 - 9,partially_vaccinated,0,0,29,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,0 - 9,not_vaccinated,7,54,880524,0.79,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,0 - 9,unknown,600,4787,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,10 - 19,fully_vaccinated,0,0,2677,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,10 - 19,partially_vaccinated,0,1,1648,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,10 - 19,not_vaccinated,3,37,849050,0.35,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,10 - 19,unknown,1816,14123,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,20 - 29,fully_vaccinated,0,1,20658,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,20 - 29,partially_vaccinated,3,8,11986,25.03,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,20 - 29,not_vaccinated,7,70,1009973,0.69,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,20 - 29,unknown,2597,17302,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,30 - 39,fully_vaccinated,4,9,32036,12.49,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,30 - 39,partially_vaccinated,5,8,18457,27.09,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,30 - 39,not_vaccinated,25,127,1197747,2.09,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,30 - 39,unknown,2576,17995,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,40 - 49,fully_vaccinated,6,11,43301,13.86,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,40 - 49,partially_vaccinated,0,4,26856,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,40 - 49,not_vaccinated,30,186,1136748,2.64,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,40 - 49,unknown,2396,17594,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,50 - 59,fully_vaccinated,3,16,70090,4.28,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,50 - 59,partially_vaccinated,5,15,48507,10.31,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,50 - 59,not_vaccinated,47,349,1186946,3.96,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,50 - 59,unknown,2215,15727,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,60 - 69,fully_vaccinated,6,21,76003,7.89,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,60 - 69,partially_vaccinated,4,17,101409,3.94,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,60 - 69,not_vaccinated,60,408,794865,7.55,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,60 - 69,unknown,1072,8375,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,70 - 79,fully_vaccinated,9,36,207581,4.34,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,70 - 79,partially_vaccinated,11,58,153208,7.18,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,70 - 79,not_vaccinated,39,340,379124,10.29,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,70 - 79,unknown,410,4082,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,80+,fully_vaccinated,15,104,249529,6.01,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,80+,partially_vaccinated,1,118,72651,1.38,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,80+,not_vaccinated,36,451,137718,26.14,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,80+,unknown,186,2934,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,Unbekannt,unknown,2,11,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,0 - 9,fully_vaccinated,0,0,39,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,0 - 9,partially_vaccinated,0,0,28,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,0 - 9,not_vaccinated,6,60,880520,0.68,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,0 - 9,unknown,605,5392,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,10 - 19,fully_vaccinated,0,0,3051,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,10 - 19,partially_vaccinated,0,1,1934,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,10 - 19,not_vaccinated,2,39,848390,0.24,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,10 - 19,unknown,1973,16096,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,20 - 29,fully_vaccinated,1,2,23175,4.31,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,20 - 29,partially_vaccinated,1,9,14924,6.7,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,20 - 29,not_vaccinated,8,78,1004518,0.8,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,20 - 29,unknown,2539,19841,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,30 - 39,fully_vaccinated,4,13,36058,11.09,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,30 - 39,partially_vaccinated,3,11,23252,12.9,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,30 - 39,not_vaccinated,18,145,1188930,1.51,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,30 - 39,unknown,2447,20442,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,40 - 49,fully_vaccinated,7,18,49377,14.18,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,40 - 49,partially_vaccinated,2,6,34177,5.85,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,40 - 49,not_vaccinated,32,218,1123351,2.85,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,40 - 49,unknown,2290,19884,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,50 - 59,fully_vaccinated,5,21,80381,6.22,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,50 - 59,partially_vaccinated,3,18,62649,4.79,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,50 - 59,not_vaccinated,81,430,1162513,6.97,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,50 - 59,unknown,2317,18044,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,60 - 69,fully_vaccinated,5,26,91844,5.44,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,60 - 69,partially_vaccinated,6,23,158829,3.78,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,60 - 69,not_vaccinated,70,478,721604,9.7,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,60 - 69,unknown,1064,9439,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,70 - 79,fully_vaccinated,6,42,235370,2.55,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,70 - 79,partially_vaccinated,7,65,196773,3.56,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,70 - 79,not_vaccinated,29,369,307770,9.42,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,70 - 79,unknown,388,4470,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,80+,fully_vaccinated,17,121,267928,6.34,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,80+,partially_vaccinated,4,122,69801,5.73,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,80+,not_vaccinated,37,488,122169,30.29,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,80+,unknown,171,3105,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,Unbekannt,unknown,2,13,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,0 - 9,fully_vaccinated,0,0,42,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,0 - 9,partially_vaccinated,0,0,38,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,0 - 9,not_vaccinated,14,74,880507,1.59,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,0 - 9,unknown,719,6111,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,10 - 19,fully_vaccinated,0,0,3471,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,10 - 19,partially_vaccinated,0,1,2661,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,10 - 19,not_vaccinated,1,40,847243,0.12,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,10 - 19,unknown,2108,18204,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,20 - 29,fully_vaccinated,0,2,26319,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,20 - 29,partially_vaccinated,1,10,20427,4.9,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,20 - 29,not_vaccinated,9,87,995871,0.9,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,20 - 29,unknown,2452,22293,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,30 - 39,fully_vaccinated,2,15,40863,4.89,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,30 - 39,partially_vaccinated,4,15,31252,12.8,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,30 - 39,not_vaccinated,23,168,1176125,1.96,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,30 - 39,unknown,2467,22909,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,40 - 49,fully_vaccinated,2,20,56537,3.54,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,40 - 49,partially_vaccinated,3,9,50361,5.96,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,40 - 49,not_vaccinated,34,252,1100007,3.09,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,40 - 49,unknown,2496,22380,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,50 - 59,fully_vaccinated,3,24,93991,3.19,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,50 - 59,partially_vaccinated,6,24,97980,6.12,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,50 - 59,not_vaccinated,80,510,1113572,7.18,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,50 - 59,unknown,2290,20334,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,60 - 69,fully_vaccinated,8,34,114733,6.97,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,60 - 69,partially_vaccinated,14,37,227453,6.16,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,60 - 69,not_vaccinated,65,543,630091,10.32,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,60 - 69,unknown,1094,10533,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,70 - 79,fully_vaccinated,6,48,273195,2.2,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,70 - 79,partially_vaccinated,13,78,222426,5.84,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,70 - 79,not_vaccinated,35,404,244292,14.33,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,70 - 79,unknown,410,4880,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,80+,fully_vaccinated,24,145,288721,8.31,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,80+,partially_vaccinated,2,124,60564,3.3,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,80+,not_vaccinated,35,523,110613,31.64,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,80+,unknown,159,3264,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,Unbekannt,unknown,2,15,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,0 - 9,fully_vaccinated,0,0,43,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,0 - 9,partially_vaccinated,0,0,44,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,0 - 9,not_vaccinated,7,81,880500,0.8,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,0 - 9,unknown,635,6746,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,10 - 19,fully_vaccinated,1,1,3921,25.5,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,10 - 19,partially_vaccinated,0,1,4585,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,10 - 19,not_vaccinated,1,41,844869,0.12,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,10 - 19,unknown,1741,19945,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,20 - 29,fully_vaccinated,1,3,29756,3.36,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,20 - 29,partially_vaccinated,3,13,31631,9.48,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,20 - 29,not_vaccinated,8,95,981230,0.82,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,20 - 29,unknown,2071,24364,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,30 - 39,fully_vaccinated,5,20,45944,10.88,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,30 - 39,partially_vaccinated,1,16,46573,2.15,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,30 - 39,not_vaccinated,17,185,1155723,1.47,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,30 - 39,unknown,2018,24927,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,40 - 49,fully_vaccinated,4,24,63928,6.26,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,40 - 49,partially_vaccinated,1,10,76942,1.3,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,40 - 49,not_vaccinated,25,277,1066035,2.35,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,40 - 49,unknown,2062,24442,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,50 - 59,fully_vaccinated,3,27,107411,2.79,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,50 - 59,partially_vaccinated,10,34,158251,6.32,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,50 - 59,not_vaccinated,32,542,1039881,3.08,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,50 - 59,unknown,1834,22168,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,60 - 69,fully_vaccinated,5,39,139932,3.57,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,60 - 69,partially_vaccinated,14,51,289210,4.84,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,60 - 69,not_vaccinated,37,580,543135,6.81,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,60 - 69,unknown,801,11334,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,70 - 79,fully_vaccinated,10,58,309707,3.23,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,70 - 79,partially_vaccinated,14,92,230966,6.06,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,70 - 79,not_vaccinated,28,432,199240,14.05,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,70 - 79,unknown,318,5198,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,80+,fully_vaccinated,19,164,305532,6.22,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,80+,partially_vaccinated,6,130,53742,11.16,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,80+,not_vaccinated,37,560,100624,36.77,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,80+,unknown,156,3420,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,Unbekannt,unknown,0,15,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,0 - 9,fully_vaccinated,0,0,44,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,0 - 9,partially_vaccinated,0,0,60,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,0 - 9,not_vaccinated,1,82,880483,0.11,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,0 - 9,unknown,688,7434,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,10 - 19,fully_vaccinated,0,1,4461,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,10 - 19,partially_vaccinated,0,1,8372,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,10 - 19,not_vaccinated,0,41,840542,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,10 - 19,unknown,1646,21591,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,20 - 29,fully_vaccinated,2,5,34070,5.87,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,20 - 29,partially_vaccinated,2,15,53401,3.75,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,20 - 29,not_vaccinated,5,100,955146,0.52,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,20 - 29,unknown,1664,26028,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,30 - 39,fully_vaccinated,3,23,52048,5.76,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,30 - 39,partially_vaccinated,1,17,73780,1.36,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,30 - 39,not_vaccinated,16,201,1122412,1.43,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,30 - 39,unknown,1740,26667,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,40 - 49,fully_vaccinated,5,29,72230,6.92,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,40 - 49,partially_vaccinated,3,13,116017,2.59,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,40 - 49,not_vaccinated,28,305,1018658,2.75,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,40 - 49,unknown,1814,26256,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,50 - 59,fully_vaccinated,4,31,123416,3.24,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,50 - 59,partially_vaccinated,14,48,247177,5.66,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,50 - 59,not_vaccinated,43,585,934950,4.6,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,50 - 59,unknown,1537,23705,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,60 - 69,fully_vaccinated,3,42,177694,1.69,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,60 - 69,partially_vaccinated,10,61,328670,3.04,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,60 - 69,not_vaccinated,29,609,465913,6.22,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,60 - 69,unknown,641,11975,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,70 - 79,fully_vaccinated,10,68,357466,2.8,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,70 - 79,partially_vaccinated,7,99,206765,3.39,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,70 - 79,not_vaccinated,25,457,175682,14.23,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,70 - 79,unknown,235,5433,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,80+,fully_vaccinated,9,173,321744,2.8,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,80+,partially_vaccinated,2,132,45768,4.37,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,80+,not_vaccinated,29,589,92386,31.39,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,80+,unknown,114,3534,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,Unbekannt,unknown,0,15,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,0 - 9,fully_vaccinated,0,0,53,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,0 - 9,partially_vaccinated,0,0,61,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,0 - 9,not_vaccinated,1,83,880473,0.11,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,0 - 9,unknown,561,7995,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,10 - 19,fully_vaccinated,0,1,5151,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,10 - 19,partially_vaccinated,1,2,12264,8.15,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,10 - 19,not_vaccinated,5,46,835960,0.6,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,10 - 19,unknown,1310,22901,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,20 - 29,fully_vaccinated,1,6,39516,2.53,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,20 - 29,partially_vaccinated,0,15,72216,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,20 - 29,not_vaccinated,5,105,930885,0.54,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,20 - 29,unknown,1240,27268,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,30 - 39,fully_vaccinated,1,24,60021,1.67,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,30 - 39,partially_vaccinated,1,18,98594,1.01,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,30 - 39,not_vaccinated,15,216,1089625,1.38,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,30 - 39,unknown,1407,28074,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,40 - 49,fully_vaccinated,4,33,84682,4.72,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,40 - 49,partially_vaccinated,2,15,149298,1.34,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,40 - 49,not_vaccinated,17,322,972925,1.75,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,40 - 49,unknown,1317,27573,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,50 - 59,fully_vaccinated,8,39,146778,5.45,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,50 - 59,partially_vaccinated,8,56,330799,2.42,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,50 - 59,not_vaccinated,29,614,827966,3.5,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,50 - 59,unknown,1131,24836,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,60 - 69,fully_vaccinated,0,42,242267,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,60 - 69,partially_vaccinated,10,71,320616,3.12,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,60 - 69,not_vaccinated,25,634,409394,6.11,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,60 - 69,unknown,485,12460,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,70 - 79,fully_vaccinated,4,72,420691,0.95,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,70 - 79,partially_vaccinated,4,103,155869,2.57,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,70 - 79,not_vaccinated,16,473,163353,9.79,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,70 - 79,unknown,146,5579,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,80+,fully_vaccinated,8,181,335478,2.38,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,80+,partially_vaccinated,0,132,36446,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,80+,not_vaccinated,15,604,87974,17.05,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,80+,unknown,76,3610,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,Unbekannt,unknown,0,15,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,0 - 9,fully_vaccinated,0,0,55,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,0 - 9,partially_vaccinated,0,0,65,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,0 - 9,not_vaccinated,4,87,880467,0.45,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,0 - 9,unknown,515,8510,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,10 - 19,fully_vaccinated,0,1,6357,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,10 - 19,partially_vaccinated,0,2,17737,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,10 - 19,not_vaccinated,1,47,829281,0.12,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,10 - 19,unknown,1345,24246,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,20 - 29,fully_vaccinated,1,7,48655,2.06,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,20 - 29,partially_vaccinated,1,16,97971,1.02,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,20 - 29,not_vaccinated,4,109,895991,0.45,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,20 - 29,unknown,1211,28479,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,30 - 39,fully_vaccinated,4,28,73009,5.48,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,30 - 39,partially_vaccinated,4,22,136860,2.92,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,30 - 39,not_vaccinated,10,226,1038371,0.96,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,30 - 39,unknown,1310,29384,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,40 - 49,fully_vaccinated,7,40,107693,6.5,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,40 - 49,partially_vaccinated,2,17,188893,1.06,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,40 - 49,not_vaccinated,17,339,910319,1.87,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,40 - 49,unknown,1234,28807,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,50 - 59,fully_vaccinated,0,39,192597,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,50 - 59,partially_vaccinated,9,65,386465,2.33,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,50 - 59,not_vaccinated,32,646,726481,4.4,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,50 - 59,unknown,937,25773,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,60 - 69,fully_vaccinated,7,49,332526,2.11,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,60 - 69,partially_vaccinated,3,74,275713,1.09,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,60 - 69,not_vaccinated,19,653,364038,5.22,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,60 - 69,unknown,391,12851,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,70 - 79,fully_vaccinated,9,81,490101,1.84,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,70 - 79,partially_vaccinated,2,105,98235,2.04,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,70 - 79,not_vaccinated,15,488,151577,9.9,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,70 - 79,unknown,133,5712,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,80+,fully_vaccinated,11,192,349006,3.15,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,80+,partially_vaccinated,2,134,27835,7.19,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,80+,not_vaccinated,23,627,83057,27.69,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,80+,unknown,92,3702,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,Unbekannt,unknown,0,15,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,0 - 9,fully_vaccinated,0,0,56,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,0 - 9,partially_vaccinated,0,0,72,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,0 - 9,not_vaccinated,2,89,880459,0.23,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,0 - 9,unknown,291,8801,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,10 - 19,fully_vaccinated,0,1,8742,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,10 - 19,partially_vaccinated,1,3,24372,4.1,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,10 - 19,not_vaccinated,2,49,820261,0.24,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,10 - 19,unknown,943,25189,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,20 - 29,fully_vaccinated,2,9,63284,3.16,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,20 - 29,partially_vaccinated,2,18,128216,1.56,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,20 - 29,not_vaccinated,2,111,851117,0.23,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,20 - 29,unknown,856,29335,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,30 - 39,fully_vaccinated,5,33,93493,5.35,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,30 - 39,partially_vaccinated,2,24,182889,1.09,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,30 - 39,not_vaccinated,5,231,971858,0.51,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,30 - 39,unknown,931,30315,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,40 - 49,fully_vaccinated,3,43,141248,2.12,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,40 - 49,partially_vaccinated,3,20,231547,1.3,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,40 - 49,not_vaccinated,11,350,834110,1.32,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,40 - 49,unknown,874,29681,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,50 - 59,fully_vaccinated,3,42,259308,1.16,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,50 - 59,partially_vaccinated,5,70,380392,1.31,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,50 - 59,not_vaccinated,21,667,665843,3.15,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,50 - 59,unknown,675,26448,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,60 - 69,fully_vaccinated,2,51,414599,0.48,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,60 - 69,partially_vaccinated,1,75,220580,0.45,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,60 - 69,not_vaccinated,7,660,337098,2.08,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,60 - 69,unknown,278,13129,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,70 - 79,fully_vaccinated,6,87,535361,1.12,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,70 - 79,partially_vaccinated,0,105,59991,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,70 - 79,not_vaccinated,11,499,144561,7.61,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,70 - 79,unknown,80,5792,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,80+,fully_vaccinated,14,206,359209,3.9,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,80+,partially_vaccinated,1,135,20851,4.8,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,80+,not_vaccinated,17,644,79838,21.29,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,80+,unknown,63,3765,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,Unbekannt,unknown,0,15,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,0 - 9,fully_vaccinated,0,0,67,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,0 - 9,partially_vaccinated,0,0,74,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,0 - 9,not_vaccinated,4,93,880446,0.45,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,0 - 9,unknown,192,8993,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,10 - 19,fully_vaccinated,0,1,12858,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,10 - 19,partially_vaccinated,0,3,34286,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,10 - 19,not_vaccinated,1,50,806231,0.12,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,10 - 19,unknown,661,25850,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,20 - 29,fully_vaccinated,0,9,87978,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,20 - 29,partially_vaccinated,1,19,164190,0.61,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,20 - 29,not_vaccinated,2,113,790449,0.25,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,20 - 29,unknown,624,29959,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,30 - 39,fully_vaccinated,1,34,125533,0.8,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,30 - 39,partially_vaccinated,0,24,235764,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,30 - 39,not_vaccinated,6,237,886943,0.68,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,30 - 39,unknown,654,30969,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,40 - 49,fully_vaccinated,0,43,187363,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,40 - 49,partially_vaccinated,4,24,278541,1.44,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,40 - 49,not_vaccinated,7,357,741001,0.94,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,40 - 49,unknown,615,30296,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,50 - 59,fully_vaccinated,3,45,356105,0.84,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,50 - 59,partially_vaccinated,3,73,337914,0.89,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,50 - 59,not_vaccinated,17,684,611524,2.78,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,50 - 59,unknown,423,26871,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,60 - 69,fully_vaccinated,5,56,491245,1.02,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,60 - 69,partially_vaccinated,1,76,167321,0.6,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,60 - 69,not_vaccinated,9,669,313711,2.87,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,60 - 69,unknown,163,13292,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,70 - 79,fully_vaccinated,5,92,560049,0.89,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,70 - 79,partially_vaccinated,0,105,41495,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,70 - 79,not_vaccinated,6,505,138369,4.34,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,70 - 79,unknown,57,5849,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,80+,fully_vaccinated,10,216,367344,2.72,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,80+,partially_vaccinated,1,136,15713,6.36,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,80+,not_vaccinated,7,651,76841,9.11,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,80+,unknown,43,3808,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,Unbekannt,unknown,0,15,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,0 - 9,fully_vaccinated,0,0,72,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,0 - 9,partially_vaccinated,0,0,76,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,0 - 9,not_vaccinated,0,93,880439,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,0 - 9,unknown,127,9120,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,10 - 19,fully_vaccinated,0,1,17859,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,10 - 19,partially_vaccinated,1,4,48342,2.07,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,10 - 19,not_vaccinated,0,50,787174,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,10 - 19,unknown,410,26260,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,20 - 29,fully_vaccinated,4,13,115065,3.48,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,20 - 29,partially_vaccinated,2,21,204053,0.98,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,20 - 29,not_vaccinated,2,115,723499,0.28,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,20 - 29,unknown,400,30359,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,30 - 39,fully_vaccinated,2,36,162178,1.23,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,30 - 39,partially_vaccinated,4,28,288127,1.39,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,30 - 39,not_vaccinated,2,239,797935,0.25,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,30 - 39,unknown,467,31436,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,40 - 49,fully_vaccinated,4,47,236868,1.69,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,40 - 49,partially_vaccinated,4,28,320823,1.25,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,40 - 49,not_vaccinated,4,361,649214,0.62,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,40 - 49,unknown,366,30662,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,50 - 59,fully_vaccinated,5,50,462386,1.08,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,50 - 59,partially_vaccinated,1,74,289717,0.35,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,50 - 59,not_vaccinated,5,689,553440,0.9,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,50 - 59,unknown,289,27160,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,60 - 69,fully_vaccinated,4,60,553949,0.72,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,60 - 69,partially_vaccinated,2,78,128357,1.56,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,60 - 69,not_vaccinated,4,673,289971,1.38,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,60 - 69,unknown,125,13417,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,70 - 79,fully_vaccinated,4,96,574464,0.7,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,70 - 79,partially_vaccinated,0,105,32707,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,70 - 79,not_vaccinated,4,509,132742,3.01,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,70 - 79,unknown,36,5885,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,80+,fully_vaccinated,7,223,372678,1.88,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,80+,partially_vaccinated,0,136,12980,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,80+,not_vaccinated,7,658,74240,9.43,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,80+,unknown,24,3832,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,Unbekannt,unknown,0,15,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,0 - 9,fully_vaccinated,0,0,76,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,0 - 9,partially_vaccinated,0,0,79,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,0 - 9,not_vaccinated,1,94,880432,0.11,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,0 - 9,unknown,98,9218,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,10 - 19,fully_vaccinated,0,1,24770,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,10 - 19,partially_vaccinated,0,4,64347,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,10 - 19,not_vaccinated,0,50,764258,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,10 - 19,unknown,206,26466,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,20 - 29,fully_vaccinated,1,14,148346,0.67,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,20 - 29,partially_vaccinated,1,22,233540,0.43,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,20 - 29,not_vaccinated,1,116,660731,0.15,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,20 - 29,unknown,215,30574,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,30 - 39,fully_vaccinated,1,37,211060,0.47,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,30 - 39,partially_vaccinated,0,28,316629,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,30 - 39,not_vaccinated,2,241,720551,0.28,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,30 - 39,unknown,236,31672,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,40 - 49,fully_vaccinated,2,49,295927,0.68,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,40 - 49,partially_vaccinated,2,30,335686,0.6,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,40 - 49,not_vaccinated,2,363,575292,0.35,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,40 - 49,unknown,192,30854,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,50 - 59,fully_vaccinated,4,54,565823,0.71,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,50 - 59,partially_vaccinated,1,75,233142,0.43,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,50 - 59,not_vaccinated,2,691,506578,0.39,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,50 - 59,unknown,161,27321,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,60 - 69,fully_vaccinated,3,63,600654,0.5,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,60 - 69,partially_vaccinated,0,78,101134,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,60 - 69,not_vaccinated,2,675,270489,0.74,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,60 - 69,unknown,64,13481,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,70 - 79,fully_vaccinated,1,97,586330,0.17,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,70 - 79,partially_vaccinated,2,107,26022,7.69,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,70 - 79,not_vaccinated,5,514,127561,3.92,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,70 - 79,unknown,18,5903,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,80+,fully_vaccinated,2,225,377291,0.53,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,80+,partially_vaccinated,0,136,10476,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,80+,not_vaccinated,3,661,72131,4.16,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,80+,unknown,11,3843,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,Unbekannt,unknown,1,16,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,0 - 9,fully_vaccinated,0,0,84,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,0 - 9,partially_vaccinated,0,0,76,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,0 - 9,not_vaccinated,2,96,880427,0.23,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,0 - 9,unknown,39,9257,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,10 - 19,fully_vaccinated,0,1,34439,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,10 - 19,partially_vaccinated,0,4,72246,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,10 - 19,not_vaccinated,0,50,746690,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,10 - 19,unknown,143,26609,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,20 - 29,fully_vaccinated,0,14,194095,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,20 - 29,partially_vaccinated,1,23,238108,0.42,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,20 - 29,not_vaccinated,1,117,610414,0.16,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,20 - 29,unknown,152,30726,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,30 - 39,fully_vaccinated,1,38,277332,0.36,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,30 - 39,partially_vaccinated,0,28,306342,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,30 - 39,not_vaccinated,0,241,664566,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,30 - 39,unknown,139,31811,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,40 - 49,fully_vaccinated,0,49,371610,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,40 - 49,partially_vaccinated,2,32,310175,0.64,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,40 - 49,not_vaccinated,1,364,525120,0.19,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,40 - 49,unknown,102,30956,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,50 - 59,fully_vaccinated,2,56,636499,0.31,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,50 - 59,partially_vaccinated,0,75,198819,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,50 - 59,not_vaccinated,1,692,470225,0.21,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,50 - 59,unknown,81,27402,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,60 - 69,fully_vaccinated,3,66,630198,0.48,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,60 - 69,partially_vaccinated,1,79,87157,1.15,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,60 - 69,not_vaccinated,3,678,254922,1.18,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,60 - 69,unknown,45,13526,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,70 - 79,fully_vaccinated,1,98,593796,0.17,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,70 - 79,partially_vaccinated,0,107,23156,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,70 - 79,not_vaccinated,2,516,122961,1.63,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,70 - 79,unknown,14,5917,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,80+,fully_vaccinated,1,226,380348,0.26,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,80+,partially_vaccinated,0,136,9187,0,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,80+,not_vaccinated,3,664,70363,4.26,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,80+,unknown,10,3853,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,Unbekannt,unknown,0,16,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202126,0 - 9,fully_vaccinated,0,0,90,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,0 - 9,partially_vaccinated,0,0,77,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,0 - 9,not_vaccinated,0,96,880420,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,0 - 9,unknown,28,9285,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,10 - 19,fully_vaccinated,0,1,48467,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,10 - 19,partially_vaccinated,0,4,79154,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,10 - 19,not_vaccinated,1,51,725754,0.14,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,10 - 19,unknown,208,26817,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,20 - 29,fully_vaccinated,2,16,252804,0.79,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,20 - 29,partially_vaccinated,1,24,205266,0.49,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,20 - 29,not_vaccinated,3,120,584547,0.51,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,20 - 29,unknown,340,31066,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,30 - 39,fully_vaccinated,2,40,359169,0.56,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,30 - 39,partially_vaccinated,0,28,250774,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,30 - 39,not_vaccinated,2,243,638297,0.31,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,30 - 39,unknown,188,31999,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,40 - 49,fully_vaccinated,1,50,462871,0.22,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,40 - 49,partially_vaccinated,0,32,241200,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,40 - 49,not_vaccinated,4,368,502834,0.8,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,40 - 49,unknown,110,31066,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,50 - 59,fully_vaccinated,0,56,691805,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,50 - 59,partially_vaccinated,1,76,162359,0.62,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,50 - 59,not_vaccinated,2,694,451379,0.44,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,50 - 59,unknown,81,27483,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,60 - 69,fully_vaccinated,3,69,654116,0.46,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,60 - 69,partially_vaccinated,2,81,72487,2.76,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,60 - 69,not_vaccinated,0,678,245674,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,60 - 69,unknown,31,13557,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,70 - 79,fully_vaccinated,0,98,600138,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,70 - 79,partially_vaccinated,0,107,20272,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,70 - 79,not_vaccinated,1,517,119503,0.84,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,70 - 79,unknown,15,5932,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,80+,fully_vaccinated,2,228,383195,0.52,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,80+,partially_vaccinated,0,136,7814,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,80+,not_vaccinated,0,664,68889,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,80+,unknown,9,3862,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,Unbekannt,unknown,0,16,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,0 - 9,fully_vaccinated,0,0,100,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,0 - 9,partially_vaccinated,0,0,70,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,0 - 9,not_vaccinated,1,97,880417,0.11,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,0 - 9,unknown,49,9334,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,10 - 19,fully_vaccinated,1,2,66048,1.51,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,10 - 19,partially_vaccinated,1,5,77178,1.3,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,10 - 19,not_vaccinated,0,51,710149,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,10 - 19,unknown,387,27204,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,20 - 29,fully_vaccinated,8,24,314961,2.54,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,20 - 29,partially_vaccinated,3,27,158884,1.89,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,20 - 29,not_vaccinated,0,120,568772,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,20 - 29,unknown,830,31896,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,30 - 39,fully_vaccinated,4,44,442638,0.9,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,30 - 39,partially_vaccinated,1,29,183843,0.54,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,30 - 39,not_vaccinated,1,244,621759,0.16,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,30 - 39,unknown,359,32358,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,40 - 49,fully_vaccinated,4,54,549500,0.73,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,40 - 49,partially_vaccinated,0,32,168901,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,40 - 49,not_vaccinated,7,375,488504,1.43,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,40 - 49,unknown,178,31244,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,50 - 59,fully_vaccinated,9,65,747094,1.2,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,50 - 59,partially_vaccinated,0,76,120588,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,50 - 59,not_vaccinated,7,701,437861,1.6,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,50 - 59,unknown,143,27626,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,60 - 69,fully_vaccinated,4,73,677208,0.59,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,60 - 69,partially_vaccinated,1,82,56660,1.76,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,60 - 69,not_vaccinated,4,682,238409,1.68,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,60 - 69,unknown,31,13588,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,70 - 79,fully_vaccinated,1,99,605729,0.17,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,70 - 79,partially_vaccinated,0,107,17493,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,70 - 79,not_vaccinated,4,521,116691,3.43,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,70 - 79,unknown,14,5946,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,80+,fully_vaccinated,1,229,385473,0.26,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,80+,partially_vaccinated,0,136,6795,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,80+,not_vaccinated,1,665,67630,1.48,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,80+,unknown,6,3868,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,Unbekannt,unknown,0,16,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,0 - 9,fully_vaccinated,0,0,104,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,0 - 9,partially_vaccinated,0,0,69,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,0 - 9,not_vaccinated,1,98,880414,0.11,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,0 - 9,unknown,141,9475,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,10 - 19,fully_vaccinated,6,8,86692,6.92,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,10 - 19,partially_vaccinated,0,5,68629,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,10 - 19,not_vaccinated,0,51,698054,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,10 - 19,unknown,695,27899,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,20 - 29,fully_vaccinated,17,41,374760,4.54,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,20 - 29,partially_vaccinated,5,32,112580,4.44,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,20 - 29,not_vaccinated,4,124,555277,0.72,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,20 - 29,unknown,1441,33337,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,30 - 39,fully_vaccinated,8,52,516858,1.55,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,30 - 39,partially_vaccinated,5,34,124081,4.03,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,30 - 39,not_vaccinated,8,252,607301,1.32,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,30 - 39,unknown,609,32967,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,40 - 49,fully_vaccinated,2,56,620836,0.32,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,40 - 49,partially_vaccinated,0,32,109942,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,40 - 49,not_vaccinated,8,383,476127,1.68,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,40 - 49,unknown,380,31624,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,50 - 59,fully_vaccinated,9,74,791969,1.14,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,50 - 59,partially_vaccinated,1,77,88040,1.14,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,50 - 59,not_vaccinated,13,714,425534,3.05,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,50 - 59,unknown,270,27896,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,60 - 69,fully_vaccinated,5,78,696047,0.72,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,60 - 69,partially_vaccinated,0,82,44363,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,60 - 69,not_vaccinated,12,694,231867,5.18,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,60 - 69,unknown,88,13676,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,70 - 79,fully_vaccinated,4,103,610840,0.65,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,70 - 79,partially_vaccinated,0,107,15049,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,70 - 79,not_vaccinated,5,526,114024,4.39,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,70 - 79,unknown,28,5974,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,80+,fully_vaccinated,5,234,387433,1.29,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,80+,partially_vaccinated,0,136,5997,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,80+,not_vaccinated,5,670,66468,7.52,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,80+,unknown,31,3899,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,Unbekannt,unknown,3,19,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,0 - 9,fully_vaccinated,0,0,107,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,0 - 9,partially_vaccinated,0,0,70,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,0 - 9,not_vaccinated,0,98,880410,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,0 - 9,unknown,157,9632,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,10 - 19,fully_vaccinated,7,15,103482,6.76,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,10 - 19,partially_vaccinated,2,7,62560,3.2,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,10 - 19,not_vaccinated,0,51,687333,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,10 - 19,unknown,928,28827,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,20 - 29,fully_vaccinated,24,65,424016,5.66,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,20 - 29,partially_vaccinated,6,38,76093,7.89,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,20 - 29,not_vaccinated,2,126,542508,0.37,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,20 - 29,unknown,1672,35009,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,30 - 39,fully_vaccinated,17,69,572587,2.97,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,30 - 39,partially_vaccinated,4,38,82463,4.85,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,30 - 39,not_vaccinated,6,258,593190,1.01,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,30 - 39,unknown,886,33853,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,40 - 49,fully_vaccinated,14,70,670674,2.09,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,40 - 49,partially_vaccinated,0,32,71841,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,40 - 49,not_vaccinated,14,397,464390,3.01,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,40 - 49,unknown,497,32121,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,50 - 59,fully_vaccinated,17,91,827495,2.05,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,50 - 59,partially_vaccinated,2,79,64096,3.12,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,50 - 59,not_vaccinated,14,728,413952,3.38,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,50 - 59,unknown,409,28305,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,60 - 69,fully_vaccinated,4,82,711461,0.56,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,60 - 69,partially_vaccinated,0,82,35326,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,60 - 69,not_vaccinated,10,704,225490,4.43,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,60 - 69,unknown,145,13821,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,70 - 79,fully_vaccinated,13,116,615166,2.11,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,70 - 79,partially_vaccinated,1,108,13402,7.46,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,70 - 79,not_vaccinated,7,533,111345,6.29,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,70 - 79,unknown,46,6020,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,80+,fully_vaccinated,9,243,389138,2.31,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,80+,partially_vaccinated,0,136,5469,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,80+,not_vaccinated,8,678,65291,12.25,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,80+,unknown,46,3945,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,Unbekannt,unknown,0,19,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,0 - 9,fully_vaccinated,0,0,111,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,0 - 9,partially_vaccinated,0,0,67,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,0 - 9,not_vaccinated,3,101,880409,0.34,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,0 - 9,unknown,184,9816,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,10 - 19,fully_vaccinated,14,29,120554,11.61,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,10 - 19,partially_vaccinated,5,12,55864,8.95,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,10 - 19,not_vaccinated,3,54,676957,0.44,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,10 - 19,unknown,952,29779,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,20 - 29,fully_vaccinated,47,112,450216,10.44,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,20 - 29,partially_vaccinated,8,46,61897,12.92,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,20 - 29,not_vaccinated,14,140,530504,2.64,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,20 - 29,unknown,1675,36684,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,30 - 39,fully_vaccinated,19,88,600092,3.17,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,30 - 39,partially_vaccinated,5,43,68424,7.31,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,30 - 39,not_vaccinated,16,274,579724,2.76,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,30 - 39,unknown,879,34732,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,40 - 49,fully_vaccinated,14,84,693545,2.02,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,40 - 49,partially_vaccinated,1,33,60072,1.66,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,40 - 49,not_vaccinated,12,409,453288,2.65,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,40 - 49,unknown,588,32709,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,50 - 59,fully_vaccinated,19,110,845878,2.25,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,50 - 59,partially_vaccinated,5,84,56382,8.87,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,50 - 59,not_vaccinated,19,747,403283,4.71,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,50 - 59,unknown,447,28752,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,60 - 69,fully_vaccinated,12,94,720590,1.67,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,60 - 69,partially_vaccinated,0,82,32148,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,60 - 69,not_vaccinated,23,727,219539,10.48,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,60 - 69,unknown,145,13966,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,70 - 79,fully_vaccinated,12,128,618405,1.94,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,70 - 79,partially_vaccinated,1,109,12528,7.98,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,70 - 79,not_vaccinated,8,541,108980,7.34,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,70 - 79,unknown,60,6080,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,80+,fully_vaccinated,12,255,390430,3.07,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,80+,partially_vaccinated,0,136,5201,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,80+,not_vaccinated,11,689,64267,17.12,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,80+,unknown,43,3988,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,Unbekannt,unknown,7,26,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,0 - 9,fully_vaccinated,0,0,113,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,0 - 9,partially_vaccinated,0,0,70,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,0 - 9,not_vaccinated,9,110,880404,1.02,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,0 - 9,unknown,259,10075,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,10 - 19,fully_vaccinated,9,38,135555,6.64,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,10 - 19,partially_vaccinated,8,20,51057,15.67,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,10 - 19,not_vaccinated,3,57,666763,0.45,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,10 - 19,unknown,1381,31160,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,20 - 29,fully_vaccinated,40,152,466391,8.58,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,20 - 29,partially_vaccinated,10,56,55201,18.12,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,20 - 29,not_vaccinated,17,157,521025,3.26,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,20 - 29,unknown,2327,39011,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,30 - 39,fully_vaccinated,35,123,617122,5.67,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,30 - 39,partially_vaccinated,9,52,62195,14.47,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,30 - 39,not_vaccinated,29,303,568923,5.1,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,30 - 39,unknown,1374,36106,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,40 - 49,fully_vaccinated,31,115,708394,4.38,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,40 - 49,partially_vaccinated,1,34,54333,1.84,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,40 - 49,not_vaccinated,34,443,444178,7.65,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,40 - 49,unknown,853,33562,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,50 - 59,fully_vaccinated,35,145,858864,4.08,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,50 - 59,partially_vaccinated,1,85,51646,1.94,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,50 - 59,not_vaccinated,36,783,395033,9.11,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,50 - 59,unknown,647,29399,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,60 - 69,fully_vaccinated,20,114,727427,2.75,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,60 - 69,partially_vaccinated,0,82,29706,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,60 - 69,not_vaccinated,31,758,215144,14.41,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,60 - 69,unknown,204,14170,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,70 - 79,fully_vaccinated,31,159,621016,4.99,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,70 - 79,partially_vaccinated,1,110,11592,8.63,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,70 - 79,not_vaccinated,19,560,107305,17.71,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,70 - 79,unknown,85,6165,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,80+,fully_vaccinated,28,283,391546,7.15,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,80+,partially_vaccinated,0,136,4807,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,80+,not_vaccinated,8,697,63545,12.59,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,80+,unknown,59,4047,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,Unbekannt,unknown,0,26,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,0 - 9,fully_vaccinated,0,0,116,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,0 - 9,partially_vaccinated,0,0,70,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,0 - 9,not_vaccinated,11,121,880401,1.25,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,0 - 9,unknown,626,10701,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,10 - 19,fully_vaccinated,16,54,149461,10.71,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,10 - 19,partially_vaccinated,6,26,49905,12.02,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,10 - 19,not_vaccinated,6,63,654009,0.92,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,10 - 19,unknown,2578,33738,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,20 - 29,fully_vaccinated,52,204,479881,10.84,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,20 - 29,partially_vaccinated,14,70,52495,26.67,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,20 - 29,not_vaccinated,25,182,510241,4.9,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,20 - 29,unknown,4045,43056,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,30 - 39,fully_vaccinated,65,188,631816,10.29,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,30 - 39,partially_vaccinated,6,58,59863,10.02,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,30 - 39,not_vaccinated,47,350,556561,8.44,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,30 - 39,unknown,2676,38782,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,40 - 49,fully_vaccinated,60,175,721213,8.32,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,40 - 49,partially_vaccinated,5,39,52342,9.55,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,40 - 49,not_vaccinated,83,526,433350,19.15,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,40 - 49,unknown,1800,35362,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,50 - 59,fully_vaccinated,50,195,871135,5.74,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,50 - 59,partially_vaccinated,9,94,48901,18.4,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,50 - 59,not_vaccinated,101,884,385507,26.2,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,50 - 59,unknown,1061,30460,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,60 - 69,fully_vaccinated,39,153,733782,5.31,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,60 - 69,partially_vaccinated,2,84,27922,7.16,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,60 - 69,not_vaccinated,53,811,210573,25.17,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,60 - 69,unknown,443,14613,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,70 - 79,fully_vaccinated,27,186,623563,4.33,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,70 - 79,partially_vaccinated,2,112,10967,18.24,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,70 - 79,not_vaccinated,18,578,105383,17.08,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,70 - 79,unknown,130,6295,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,80+,fully_vaccinated,40,323,392602,10.19,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,80+,partially_vaccinated,3,139,4590,65.36,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,80+,not_vaccinated,23,720,62706,36.68,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,80+,unknown,84,4131,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,Unbekannt,unknown,4,30,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,0 - 9,fully_vaccinated,0,0,117,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,0 - 9,partially_vaccinated,0,0,75,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,0 - 9,not_vaccinated,12,133,880395,1.36,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,0 - 9,unknown,1239,11940,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,10 - 19,fully_vaccinated,7,61,162395,4.31,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,10 - 19,partially_vaccinated,10,36,52344,19.1,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,10 - 19,not_vaccinated,10,73,638636,1.57,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,10 - 19,unknown,3377,37115,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,20 - 29,fully_vaccinated,65,269,492995,13.18,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,20 - 29,partially_vaccinated,14,84,50845,27.53,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,20 - 29,not_vaccinated,26,208,498777,5.21,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,20 - 29,unknown,4127,47183,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,30 - 39,fully_vaccinated,71,259,647011,10.97,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,30 - 39,partially_vaccinated,18,76,59037,30.49,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,30 - 39,not_vaccinated,60,410,542192,11.07,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,30 - 39,unknown,3666,42448,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,40 - 49,fully_vaccinated,74,249,734310,10.08,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,40 - 49,partially_vaccinated,15,54,52095,28.79,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,40 - 49,not_vaccinated,81,607,420500,19.26,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,40 - 49,unknown,2278,37640,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,50 - 59,fully_vaccinated,81,276,883213,9.17,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,50 - 59,partially_vaccinated,10,104,47484,21.06,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,50 - 59,not_vaccinated,105,989,374846,28.01,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,50 - 59,unknown,1489,31949,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,60 - 69,fully_vaccinated,61,214,740384,8.24,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,60 - 69,partially_vaccinated,6,90,26805,22.38,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,60 - 69,not_vaccinated,72,883,205088,35.11,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,60 - 69,unknown,601,15214,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,70 - 79,fully_vaccinated,36,222,626151,5.75,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,70 - 79,partially_vaccinated,3,115,10651,28.17,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,70 - 79,not_vaccinated,28,606,103111,27.16,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,70 - 79,unknown,189,6484,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,80+,fully_vaccinated,37,360,393753,9.4,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,80+,partially_vaccinated,2,141,4517,44.28,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,80+,not_vaccinated,24,744,61628,38.94,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,80+,unknown,119,4250,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,Unbekannt,unknown,2,32,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,0 - 9,fully_vaccinated,0,0,119,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,0 - 9,partially_vaccinated,0,0,86,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,0 - 9,not_vaccinated,11,144,880382,1.25,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,0 - 9,unknown,2096,14036,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,10 - 19,fully_vaccinated,9,70,174253,5.16,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,10 - 19,partially_vaccinated,6,42,59121,10.15,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,10 - 19,not_vaccinated,2,75,620001,0.32,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,10 - 19,unknown,3942,41057,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,20 - 29,fully_vaccinated,44,313,505899,8.7,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,20 - 29,partially_vaccinated,14,98,52116,26.86,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,20 - 29,not_vaccinated,13,221,484602,2.68,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,20 - 29,unknown,3266,50449,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,30 - 39,fully_vaccinated,53,312,662052,8.01,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,30 - 39,partially_vaccinated,19,95,62875,30.22,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,30 - 39,not_vaccinated,56,466,523313,10.7,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,30 - 39,unknown,3162,45610,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,40 - 49,fully_vaccinated,69,318,747469,9.23,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,40 - 49,partially_vaccinated,7,61,55590,12.59,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,40 - 49,not_vaccinated,78,685,403846,19.31,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,40 - 49,unknown,2266,39906,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,50 - 59,fully_vaccinated,74,350,895177,8.27,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,50 - 59,partially_vaccinated,6,110,49276,12.18,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,50 - 59,not_vaccinated,83,1072,361090,22.99,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,50 - 59,unknown,1446,33395,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,60 - 69,fully_vaccinated,46,260,746807,6.16,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,60 - 69,partially_vaccinated,5,95,27427,18.23,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,60 - 69,not_vaccinated,69,952,198043,34.84,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,60 - 69,unknown,580,15794,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,70 - 79,fully_vaccinated,39,261,628694,6.2,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,70 - 79,partially_vaccinated,0,115,10939,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,70 - 79,not_vaccinated,44,650,100280,43.88,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,70 - 79,unknown,212,6696,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,80+,fully_vaccinated,45,405,394831,11.4,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,80+,partially_vaccinated,2,143,4782,41.82,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,80+,not_vaccinated,24,768,60285,39.81,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,80+,unknown,133,4383,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,Unbekannt,unknown,2,34,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,0 - 9,fully_vaccinated,0,0,124,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,0 - 9,partially_vaccinated,0,0,92,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,0 - 9,not_vaccinated,15,159,880371,1.7,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,0 - 9,unknown,2472,16508,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,10 - 19,fully_vaccinated,12,82,185350,6.47,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,10 - 19,partially_vaccinated,16,58,68705,23.29,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,10 - 19,not_vaccinated,7,82,599320,1.17,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,10 - 19,unknown,4252,45309,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,20 - 29,fully_vaccinated,39,352,516555,7.55,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,20 - 29,partially_vaccinated,6,104,58282,10.29,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,20 - 29,not_vaccinated,13,234,467780,2.78,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,20 - 29,unknown,2828,53277,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,30 - 39,fully_vaccinated,49,361,674405,7.27,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,30 - 39,partially_vaccinated,8,103,71219,11.23,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,30 - 39,not_vaccinated,26,492,502616,5.17,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,30 - 39,unknown,3251,48861,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,40 - 49,fully_vaccinated,105,423,758186,13.85,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,40 - 49,partially_vaccinated,9,70,62595,14.38,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,40 - 49,not_vaccinated,66,751,386124,17.09,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,40 - 49,unknown,2550,42456,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,50 - 59,fully_vaccinated,54,404,904485,5.97,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,50 - 59,partially_vaccinated,8,118,54552,14.66,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,50 - 59,not_vaccinated,56,1128,346506,16.16,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,50 - 59,unknown,1583,34978,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,60 - 69,fully_vaccinated,50,310,751812,6.65,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,60 - 69,partially_vaccinated,4,99,30158,13.26,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,60 - 69,not_vaccinated,52,1004,190307,27.32,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,60 - 69,unknown,659,16453,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,70 - 79,fully_vaccinated,37,298,630609,5.87,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,70 - 79,partially_vaccinated,1,116,12319,8.12,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,70 - 79,not_vaccinated,36,686,96985,37.12,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,70 - 79,unknown,308,7004,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,80+,fully_vaccinated,53,458,395638,13.4,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,80+,partially_vaccinated,0,143,5493,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,80+,not_vaccinated,31,799,58767,52.75,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,80+,unknown,172,4555,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,Unbekannt,unknown,3,37,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,0 - 9,fully_vaccinated,0,0,125,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,0 - 9,partially_vaccinated,0,0,110,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,0 - 9,not_vaccinated,16,175,880352,1.82,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,0 - 9,unknown,2433,18941,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,10 - 19,fully_vaccinated,12,94,199188,6.02,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,10 - 19,partially_vaccinated,10,68,78872,12.68,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,10 - 19,not_vaccinated,5,87,575315,0.87,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,10 - 19,unknown,4189,49498,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,20 - 29,fully_vaccinated,28,380,529330,5.29,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,20 - 29,partially_vaccinated,8,112,70976,11.27,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,20 - 29,not_vaccinated,12,246,442311,2.71,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,20 - 29,unknown,2568,55845,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,30 - 39,fully_vaccinated,51,412,688759,7.4,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,30 - 39,partially_vaccinated,10,113,84541,11.83,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,30 - 39,not_vaccinated,34,526,474940,7.16,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,30 - 39,unknown,3027,51888,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,40 - 49,fully_vaccinated,74,497,770757,9.6,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,40 - 49,partially_vaccinated,7,77,72352,9.67,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,40 - 49,not_vaccinated,52,803,363796,14.29,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,40 - 49,unknown,2546,45002,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,50 - 59,fully_vaccinated,47,451,915134,5.14,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,50 - 59,partially_vaccinated,4,122,62443,6.41,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,50 - 59,not_vaccinated,47,1175,327966,14.33,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,50 - 59,unknown,1536,36514,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,60 - 69,fully_vaccinated,53,363,757151,7,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,60 - 69,partially_vaccinated,5,104,34273,14.59,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,60 - 69,not_vaccinated,48,1052,180853,26.54,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,60 - 69,unknown,689,17142,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,70 - 79,fully_vaccinated,32,330,632720,5.06,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,70 - 79,partially_vaccinated,1,117,14271,7.01,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,70 - 79,not_vaccinated,23,709,92922,24.75,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,70 - 79,unknown,301,7305,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,80+,fully_vaccinated,65,523,396501,16.39,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,80+,partially_vaccinated,5,148,6692,74.72,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,80+,not_vaccinated,26,825,56705,45.85,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,80+,unknown,217,4772,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,Unbekannt,unknown,8,45,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,0 - 9,fully_vaccinated,0,0,132,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,0 - 9,partially_vaccinated,0,0,121,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,0 - 9,not_vaccinated,3,178,880334,0.34,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,0 - 9,unknown,1392,20333,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,10 - 19,fully_vaccinated,6,100,216869,2.77,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,10 - 19,partially_vaccinated,4,72,87005,4.6,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,10 - 19,not_vaccinated,6,93,549501,1.09,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,10 - 19,unknown,2821,52319,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,20 - 29,fully_vaccinated,19,399,545017,3.49,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,20 - 29,partially_vaccinated,7,119,88737,7.89,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,20 - 29,not_vaccinated,8,254,408863,1.96,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,20 - 29,unknown,2011,57856,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,30 - 39,fully_vaccinated,40,452,706326,5.66,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,30 - 39,partially_vaccinated,11,124,98339,11.19,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,30 - 39,not_vaccinated,24,550,443575,5.41,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,30 - 39,unknown,2086,53974,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,40 - 49,fully_vaccinated,48,545,785835,6.11,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,40 - 49,partially_vaccinated,12,89,80809,14.85,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,40 - 49,not_vaccinated,26,829,340261,7.64,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,40 - 49,unknown,1826,46828,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,50 - 59,fully_vaccinated,42,493,927775,4.53,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,50 - 59,partially_vaccinated,8,130,69453,11.52,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,50 - 59,not_vaccinated,45,1220,308315,14.6,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,50 - 59,unknown,1121,37635,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,60 - 69,fully_vaccinated,26,389,763362,3.41,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,60 - 69,partially_vaccinated,4,108,37862,10.56,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,60 - 69,not_vaccinated,26,1078,171053,15.2,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,60 - 69,unknown,528,17670,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,70 - 79,fully_vaccinated,46,376,635294,7.24,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,70 - 79,partially_vaccinated,3,120,16202,18.52,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,70 - 79,not_vaccinated,26,735,88417,29.41,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,70 - 79,unknown,280,7585,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,80+,fully_vaccinated,32,555,397733,8.05,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,80+,partially_vaccinated,1,149,8018,12.47,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,80+,not_vaccinated,32,857,54147,59.1,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,80+,unknown,175,4947,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,Unbekannt,unknown,4,49,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,0 - 9,fully_vaccinated,0,0,134,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,0 - 9,partially_vaccinated,0,0,127,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,0 - 9,not_vaccinated,3,181,880326,0.34,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,0 - 9,unknown,901,21234,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,10 - 19,fully_vaccinated,3,103,236017,1.27,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,10 - 19,partially_vaccinated,3,75,87228,3.44,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,10 - 19,not_vaccinated,5,98,530130,0.94,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,10 - 19,unknown,1886,54205,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,20 - 29,fully_vaccinated,11,410,560721,1.96,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,20 - 29,partially_vaccinated,6,125,96620,6.21,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,20 - 29,not_vaccinated,5,259,385276,1.3,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,20 - 29,unknown,1457,59313,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,30 - 39,fully_vaccinated,28,480,725935,3.86,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,30 - 39,partially_vaccinated,8,132,102544,7.8,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,30 - 39,not_vaccinated,11,561,419761,2.62,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,30 - 39,unknown,1543,55517,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,40 - 49,fully_vaccinated,46,591,802770,5.73,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,40 - 49,partially_vaccinated,5,94,81294,6.15,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,40 - 49,not_vaccinated,20,849,322841,6.2,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,40 - 49,unknown,1315,48143,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,50 - 59,fully_vaccinated,43,536,941719,4.57,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,50 - 59,partially_vaccinated,3,133,69809,4.3,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,50 - 59,not_vaccinated,28,1248,294015,9.52,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,50 - 59,unknown,966,38601,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,60 - 69,fully_vaccinated,29,418,770335,3.76,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,60 - 69,partially_vaccinated,2,110,38077,5.25,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,60 - 69,not_vaccinated,21,1099,163865,12.82,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,60 - 69,unknown,486,18156,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,70 - 79,fully_vaccinated,28,404,638183,4.39,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,70 - 79,partially_vaccinated,1,121,16792,5.96,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,70 - 79,not_vaccinated,26,761,84938,30.61,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,70 - 79,unknown,255,7840,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,80+,fully_vaccinated,37,592,399137,9.27,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,80+,partially_vaccinated,3,152,8934,33.58,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,80+,not_vaccinated,26,883,51827,50.17,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,80+,unknown,135,5082,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,Unbekannt,unknown,3,52,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,0 - 9,fully_vaccinated,0,0,140,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,0 - 9,partially_vaccinated,0,0,130,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,0 - 9,not_vaccinated,0,181,880317,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,0 - 9,unknown,751,21985,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,10 - 19,fully_vaccinated,6,109,255715,2.35,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,10 - 19,partially_vaccinated,2,77,80063,2.5,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,10 - 19,not_vaccinated,1,99,517597,0.19,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,10 - 19,unknown,1463,55668,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,20 - 29,fully_vaccinated,16,426,577819,2.77,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,20 - 29,partially_vaccinated,3,128,94233,3.18,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,20 - 29,not_vaccinated,6,265,370565,1.62,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,20 - 29,unknown,1113,60426,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,30 - 39,fully_vaccinated,21,501,746068,2.81,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,30 - 39,partially_vaccinated,5,137,97346,5.14,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,30 - 39,not_vaccinated,6,567,404826,1.48,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,30 - 39,unknown,1273,56790,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,40 - 49,fully_vaccinated,31,622,820072,3.78,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,40 - 49,partially_vaccinated,6,100,74913,8.01,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,40 - 49,not_vaccinated,12,861,311920,3.85,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,40 - 49,unknown,1162,49305,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,50 - 59,fully_vaccinated,23,559,955953,2.41,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,50 - 59,partially_vaccinated,4,137,64845,6.17,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,50 - 59,not_vaccinated,18,1266,284745,6.32,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,50 - 59,unknown,815,39416,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,60 - 69,fully_vaccinated,25,443,777688,3.21,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,60 - 69,partially_vaccinated,3,113,35621,8.42,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,60 - 69,not_vaccinated,27,1126,158968,16.98,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,60 - 69,unknown,419,18575,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,70 - 79,fully_vaccinated,33,437,641300,5.15,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,70 - 79,partially_vaccinated,1,122,16154,6.19,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,70 - 79,not_vaccinated,16,777,82459,19.4,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,70 - 79,unknown,191,8031,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,80+,fully_vaccinated,38,630,400676,9.48,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,80+,partially_vaccinated,1,153,9095,11,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,80+,not_vaccinated,12,895,50127,23.94,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,80+,unknown,131,5213,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,Unbekannt,unknown,7,59,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,0 - 9,fully_vaccinated,0,0,144,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,0 - 9,partially_vaccinated,0,0,131,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,0 - 9,not_vaccinated,3,184,880312,0.34,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,0 - 9,unknown,553,22538,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,10 - 19,fully_vaccinated,7,116,276353,2.53,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,10 - 19,partially_vaccinated,1,78,68436,1.46,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,10 - 19,not_vaccinated,0,99,508586,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,10 - 19,unknown,1097,56765,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,20 - 29,fully_vaccinated,12,438,600430,2,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,20 - 29,partially_vaccinated,5,133,82496,6.06,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,20 - 29,not_vaccinated,2,267,359691,0.56,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,20 - 29,unknown,1093,61519,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,30 - 39,fully_vaccinated,27,528,770838,3.5,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,30 - 39,partially_vaccinated,1,138,84014,1.19,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,30 - 39,not_vaccinated,12,579,393388,3.05,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,30 - 39,unknown,1036,57826,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,40 - 49,fully_vaccinated,23,645,839518,2.74,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,40 - 49,partially_vaccinated,1,101,63119,1.58,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,40 - 49,not_vaccinated,10,871,304268,3.29,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,40 - 49,unknown,933,50238,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,50 - 59,fully_vaccinated,26,585,972429,2.67,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,50 - 59,partially_vaccinated,2,139,55144,3.63,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,50 - 59,not_vaccinated,21,1287,277970,7.55,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,50 - 59,unknown,704,40120,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,60 - 69,fully_vaccinated,21,464,786320,2.67,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,60 - 69,partially_vaccinated,0,113,30670,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,60 - 69,not_vaccinated,14,1140,155287,9.02,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,60 - 69,unknown,332,18907,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,70 - 79,fully_vaccinated,40,477,645118,6.2,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,70 - 79,partially_vaccinated,0,122,14193,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,70 - 79,not_vaccinated,16,793,80602,19.85,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,70 - 79,unknown,191,8222,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,80+,fully_vaccinated,60,690,402587,14.9,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,80+,partially_vaccinated,1,154,8406,11.9,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,80+,not_vaccinated,21,916,48905,42.94,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,80+,unknown,107,5320,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,Unbekannt,unknown,1,60,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,0 - 9,fully_vaccinated,0,0,150,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,0 - 9,partially_vaccinated,0,0,126,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,0 - 9,not_vaccinated,2,186,880311,0.23,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,0 - 9,unknown,467,23005,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,10 - 19,fully_vaccinated,2,118,296804,0.67,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,10 - 19,partially_vaccinated,1,79,55269,1.81,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,10 - 19,not_vaccinated,1,100,501302,0.2,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,10 - 19,unknown,997,57762,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,20 - 29,fully_vaccinated,13,451,628827,2.07,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,20 - 29,partially_vaccinated,0,133,64267,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,20 - 29,not_vaccinated,7,274,349523,2,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,20 - 29,unknown,1076,62595,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,30 - 39,fully_vaccinated,19,547,798981,2.38,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,30 - 39,partially_vaccinated,1,139,65964,1.52,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,30 - 39,not_vaccinated,7,586,383295,1.83,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,30 - 39,unknown,1115,58941,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,40 - 49,fully_vaccinated,17,662,860435,1.98,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,40 - 49,partially_vaccinated,0,101,49332,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,40 - 49,not_vaccinated,12,883,297138,4.04,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,40 - 49,unknown,983,51221,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,50 - 59,fully_vaccinated,24,609,990527,2.42,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,50 - 59,partially_vaccinated,3,142,43467,6.9,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,50 - 59,not_vaccinated,14,1301,271549,5.16,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,50 - 59,unknown,775,40895,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,60 - 69,fully_vaccinated,23,487,795815,2.89,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,60 - 69,partially_vaccinated,1,114,24651,4.06,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,60 - 69,not_vaccinated,19,1159,151811,12.52,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,60 - 69,unknown,386,19293,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,70 - 79,fully_vaccinated,24,501,649435,3.7,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,70 - 79,partially_vaccinated,1,123,11557,8.65,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,70 - 79,not_vaccinated,10,803,78921,12.67,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,70 - 79,unknown,186,8408,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,80+,fully_vaccinated,48,738,404923,11.85,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,80+,partially_vaccinated,2,156,7138,28.02,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,80+,not_vaccinated,18,934,47837,37.63,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,80+,unknown,184,5504,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,Unbekannt,unknown,2,62,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,0 - 9,fully_vaccinated,0,0,154,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,0 - 9,partially_vaccinated,0,0,124,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,0 - 9,not_vaccinated,3,189,880309,0.34,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,0 - 9,unknown,551,23556,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,10 - 19,fully_vaccinated,4,122,315126,1.27,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,10 - 19,partially_vaccinated,0,79,43511,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,10 - 19,not_vaccinated,2,102,494738,0.4,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,10 - 19,unknown,1302,59064,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,20 - 29,fully_vaccinated,6,457,652647,0.92,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,20 - 29,partially_vaccinated,1,134,48348,2.07,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,20 - 29,not_vaccinated,0,274,341622,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,20 - 29,unknown,1402,63997,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,30 - 39,fully_vaccinated,16,563,823022,1.94,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,30 - 39,partially_vaccinated,0,139,50009,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,30 - 39,not_vaccinated,5,591,375209,1.33,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,30 - 39,unknown,1544,60485,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,40 - 49,fully_vaccinated,11,673,877843,1.25,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,40 - 49,partially_vaccinated,1,102,37524,2.66,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,40 - 49,not_vaccinated,11,894,291538,3.77,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,40 - 49,unknown,1362,52583,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,50 - 59,fully_vaccinated,20,629,1005266,1.99,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,50 - 59,partially_vaccinated,1,143,33458,2.99,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,50 - 59,not_vaccinated,17,1318,266819,6.37,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,50 - 59,unknown,1150,42045,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,60 - 69,fully_vaccinated,20,507,803499,2.49,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,60 - 69,partially_vaccinated,1,115,19495,5.13,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,60 - 69,not_vaccinated,18,1177,149283,12.06,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,60 - 69,unknown,578,19871,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,70 - 79,fully_vaccinated,28,529,653172,4.29,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,70 - 79,partially_vaccinated,0,123,9139,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,70 - 79,not_vaccinated,9,812,77602,11.6,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,70 - 79,unknown,331,8739,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,80+,fully_vaccinated,75,813,407228,18.42,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,80+,partially_vaccinated,2,158,5680,35.21,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,80+,not_vaccinated,23,957,46990,48.95,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,80+,unknown,231,5735,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,Unbekannt,unknown,2,64,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,0 - 9,fully_vaccinated,0,0,157,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,0 - 9,partially_vaccinated,0,0,121,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,0 - 9,not_vaccinated,4,193,880309,0.45,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,0 - 9,unknown,991,24547,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,10 - 19,fully_vaccinated,1,123,328497,0.3,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,10 - 19,partially_vaccinated,1,80,35413,2.82,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,10 - 19,not_vaccinated,2,104,489465,0.41,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,10 - 19,unknown,1934,60998,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,20 - 29,fully_vaccinated,6,463,667583,0.9,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,20 - 29,partially_vaccinated,1,135,39334,2.54,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,20 - 29,not_vaccinated,5,279,335700,1.49,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,20 - 29,unknown,1604,65601,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,30 - 39,fully_vaccinated,5,568,838741,0.6,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,30 - 39,partially_vaccinated,1,140,40387,2.48,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,30 - 39,not_vaccinated,8,599,369112,2.17,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,30 - 39,unknown,1949,62434,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,40 - 49,fully_vaccinated,10,683,889430,1.12,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,40 - 49,partially_vaccinated,0,102,30140,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,40 - 49,not_vaccinated,7,901,287335,2.44,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,40 - 49,unknown,1760,54343,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,50 - 59,fully_vaccinated,10,639,1014870,0.99,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,50 - 59,partially_vaccinated,1,144,27318,3.66,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,50 - 59,not_vaccinated,19,1337,263355,7.21,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,50 - 59,unknown,1405,43450,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,60 - 69,fully_vaccinated,12,519,808697,1.48,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,60 - 69,partially_vaccinated,0,115,16310,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,60 - 69,not_vaccinated,12,1189,147270,8.15,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,60 - 69,unknown,798,20669,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,70 - 79,fully_vaccinated,30,559,655945,4.57,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,70 - 79,partially_vaccinated,1,124,7359,13.59,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,70 - 79,not_vaccinated,11,823,76609,14.36,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,70 - 79,unknown,504,9243,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,80+,fully_vaccinated,31,844,409070,7.58,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,80+,partially_vaccinated,0,158,4492,0,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,80+,not_vaccinated,25,982,46336,53.95,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,80+,unknown,391,6126,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,Unbekannt,fully_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,Unbekannt,partially_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,Unbekannt,not_vaccinated,0,0,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,Unbekannt,unknown,2,66,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202104,all,fully_vaccinated,1,1,15356,6.51,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,all,partially_vaccinated,8,8,277731,2.88,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,all,not_vaccinated,107,107,8416268,1.27,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202104,all,unknown,7084,7084,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,all,fully_vaccinated,3,4,46842,6.4,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,all,partially_vaccinated,29,37,314716,9.21,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,all,not_vaccinated,170,277,8347797,2.04,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202105,all,unknown,9884,16968,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,all,fully_vaccinated,2,6,103150,1.94,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,all,partially_vaccinated,31,68,336052,9.22,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,all,not_vaccinated,157,434,8270153,1.9,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202106,all,unknown,7690,24658,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,all,fully_vaccinated,7,13,175431,3.99,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,all,partially_vaccinated,25,93,322454,7.75,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,all,not_vaccinated,131,565,8211470,1.6,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202107,all,unknown,6817,31475,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,all,fully_vaccinated,13,26,265386,4.9,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,all,partially_vaccinated,22,115,281087,7.83,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,all,not_vaccinated,156,721,8162882,1.91,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202108,all,unknown,7050,38525,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,all,fully_vaccinated,8,34,342137,2.34,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,all,partially_vaccinated,20,135,279522,7.16,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,all,not_vaccinated,146,867,8087696,1.81,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202109,all,unknown,7420,45945,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,all,fully_vaccinated,24,58,404372,5.94,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,all,partially_vaccinated,16,151,307307,5.21,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,all,not_vaccinated,168,1035,7997676,2.1,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202110,all,unknown,8596,54541,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,all,fully_vaccinated,28,86,478159,5.86,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,all,partially_vaccinated,21,172,311247,6.75,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,all,not_vaccinated,203,1238,7919949,2.56,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202111,all,unknown,10257,64798,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,all,fully_vaccinated,27,113,547588,4.93,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,all,partially_vaccinated,11,183,355494,3.09,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,all,not_vaccinated,266,1504,7806273,3.41,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202112,all,unknown,12263,77061,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,all,fully_vaccinated,42,155,614198,6.84,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,all,partially_vaccinated,17,200,398140,4.27,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,all,not_vaccinated,264,1768,7697017,3.43,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202113,all,unknown,11999,89060,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,all,fully_vaccinated,43,198,701909,6.13,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,all,partially_vaccinated,29,229,434751,6.67,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,all,not_vaccinated,254,2022,7572695,3.35,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202114,all,unknown,13870,102930,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,all,fully_vaccinated,45,243,787223,5.72,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,all,partially_vaccinated,26,255,562367,4.62,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,all,not_vaccinated,283,2305,7359765,3.85,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202115,all,unknown,13796,116726,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,all,fully_vaccinated,45,288,897872,5.01,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,all,partially_vaccinated,43,298,713162,6.03,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,all,not_vaccinated,296,2601,7098321,4.17,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202116,all,unknown,14197,130923,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,all,fully_vaccinated,48,336,1006174,4.77,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,all,partially_vaccinated,49,347,891944,5.49,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,all,not_vaccinated,192,2793,6811237,2.82,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202117,all,unknown,11636,142559,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,all,fully_vaccinated,36,372,1143173,3.15,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,all,partially_vaccinated,39,386,1080010,3.61,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,all,not_vaccinated,176,2969,6486172,2.71,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202118,all,unknown,10079,152638,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,all,fully_vaccinated,26,398,1334637,1.95,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,all,partially_vaccinated,26,412,1176163,2.21,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,all,not_vaccinated,128,3097,6198555,2.06,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202119,all,unknown,7673,160311,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,all,fully_vaccinated,39,437,1599999,2.44,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,all,partially_vaccinated,23,435,1229774,1.87,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,all,not_vaccinated,125,3222,5879582,2.13,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202120,all,unknown,7168,167479,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,all,fully_vaccinated,35,472,1875300,1.87,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,all,partially_vaccinated,15,450,1248910,1.2,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,all,not_vaccinated,78,3300,5585145,1.4,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202121,all,unknown,4991,172470,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,all,fully_vaccinated,24,496,2188542,1.1,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,all,partially_vaccinated,10,460,1275298,0.78,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,all,not_vaccinated,59,3359,5245515,1.12,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202122,all,unknown,3432,175902,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,all,fully_vaccinated,30,526,2495519,1.2,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,all,partially_vaccinated,14,474,1325182,1.06,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,all,not_vaccinated,28,3387,4888654,0.57,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202123,all,unknown,2244,178146,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,all,fully_vaccinated,14,540,2810277,0.5,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,all,partially_vaccinated,6,480,1321055,0.45,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,all,not_vaccinated,18,3405,4578023,0.39,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202124,all,unknown,1202,179348,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,all,fully_vaccinated,8,548,3118401,0.26,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,all,partially_vaccinated,4,484,1245266,0.32,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,all,not_vaccinated,13,3418,4345688,0.3,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202125,all,unknown,725,180073,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,limited,2021-11-03_07-53-32
+202126,all,fully_vaccinated,10,558,3452655,0.29,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,all,partially_vaccinated,4,488,1039403,0.38,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,all,not_vaccinated,13,3431,4217297,0.31,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202126,all,unknown,1010,181083,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,all,fully_vaccinated,32,590,3788751,0.84,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,all,partially_vaccinated,6,494,790412,0.76,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,all,not_vaccinated,25,3456,4130192,0.61,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202127,all,unknown,1997,183080,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,all,fully_vaccinated,56,646,4085539,1.37,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,all,partially_vaccinated,11,505,568750,1.93,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,all,not_vaccinated,56,3512,4055066,1.38,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202128,all,unknown,3686,186766,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,all,fully_vaccinated,105,751,4314126,2.43,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,all,partially_vaccinated,15,520,411320,3.65,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,all,not_vaccinated,61,3573,3983909,1.53,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202129,all,unknown,4786,191552,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,all,fully_vaccinated,149,900,4439821,3.36,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,all,partially_vaccinated,25,545,352583,7.09,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,all,not_vaccinated,109,3682,3916951,2.78,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202130,all,unknown,4980,196532,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,all,fully_vaccinated,229,1129,4526428,5.06,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,all,partially_vaccinated,30,575,320607,9.36,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,all,not_vaccinated,186,3868,3862320,4.82,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202131,all,unknown,7189,203721,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,all,fully_vaccinated,349,1478,4603569,7.58,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,all,partially_vaccinated,47,622,307055,15.31,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,all,not_vaccinated,367,4235,3798731,9.66,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202132,all,unknown,13447,217168,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,all,fully_vaccinated,432,1910,4680329,9.23,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,all,partially_vaccinated,78,700,303853,25.67,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,all,not_vaccinated,418,4653,3725173,11.22,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202133,all,unknown,17087,234255,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,all,fully_vaccinated,379,2289,4755301,7.97,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,all,partially_vaccinated,59,759,322212,18.31,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,all,not_vaccinated,380,5033,3631842,10.46,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202134,all,unknown,17105,251360,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,all,fully_vaccinated,399,2688,4817164,8.28,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,all,partially_vaccinated,52,811,363415,14.31,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,all,not_vaccinated,302,5335,3528776,8.56,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202135,all,unknown,18078,269438,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,all,fully_vaccinated,362,3050,4889665,7.4,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,all,partially_vaccinated,50,861,424530,11.78,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,all,not_vaccinated,263,5598,3395160,7.75,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202136,all,unknown,17514,286952,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,all,fully_vaccinated,259,3309,4978343,5.2,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,all,partially_vaccinated,50,911,486546,10.28,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,all,not_vaccinated,196,5794,3244466,6.04,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202137,all,unknown,12244,299196,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,all,fully_vaccinated,225,3534,5074951,4.43,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,all,partially_vaccinated,31,942,501425,6.18,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,all,not_vaccinated,145,5939,3132979,4.63,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202138,all,unknown,8947,308143,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,all,fully_vaccinated,193,3727,5175431,3.73,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,all,partially_vaccinated,25,967,472400,5.29,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,all,not_vaccinated,98,6037,3061524,3.2,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202139,all,unknown,7325,315468,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,all,fully_vaccinated,216,3943,5293737,4.08,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,all,partially_vaccinated,11,978,406609,2.71,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,all,not_vaccinated,99,6136,3009009,3.29,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202140,all,unknown,6047,321515,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,all,fully_vaccinated,170,4113,5425897,3.13,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,all,partially_vaccinated,9,987,321771,2.8,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,all,not_vaccinated,90,6226,2961687,3.04,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202141,all,unknown,6171,327686,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,all,fully_vaccinated,180,4293,5537957,3.25,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,all,partially_vaccinated,6,993,247288,2.43,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,all,not_vaccinated,88,6314,2924110,3.01,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202142,all,unknown,8453,336139,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,all,fully_vaccinated,105,4398,5612990,1.87,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,all,partially_vaccinated,5,998,200874,2.49,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,all,not_vaccinated,93,6407,2895491,3.21,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
+202143,all,unknown,11338,347477,NA,NA,NA,CHFL,COVID19Cases,vaccine,all,intermediate,2021-11-03_07-53-32
